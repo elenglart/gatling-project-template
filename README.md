@@ -1,4 +1,6 @@
 # gatling-project-template
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 The purpose of this project is to provide a development layout that allows developers to write reliable gatling simulation.
 To achieve these goals, the project has the following characteristics : 
 - Simulation can be run directly from IDE using the App main class
